@@ -2,7 +2,7 @@ public class Road {
     public double lightDuration, intersectionDist;
 
     public Road(){
-        lightDuration = 2.25; // between 2 and 5, we give the values and test
+        lightDuration = 4.5; // between 2 and 5, we give the values and test
         intersectionDist = 5; // between 5 and 20
     }
 

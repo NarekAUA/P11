@@ -10,10 +10,10 @@ public class Car {
     }
 
     public Car(){
-        speed = 5.5; // Speed is between 5.5 and 22.2 mps, we can change here to test and gather data
-        init_distance = 10; // between 10 and 150
-        aPos = 1; //between 1 and 3
-        aNeg = 1; //between 1 and 3
+        speed = 10; // Speed is between 5.5 and 22.2 mps, we can change here to test and gather data
+        init_distance = 60; // between 10 and 150
+        aPos = 3; //between 1 and 3
+        aNeg = 3; //between 1 and 3
     }
 
     public double getSpeed(){
